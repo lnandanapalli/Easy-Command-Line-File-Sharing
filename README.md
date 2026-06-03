@@ -15,8 +15,6 @@ Available in Bash, Batch, PowerShell, and Python.
 | `transfer.ps1` | `.\transfer.ps1` |
 | `transfer.py` | `python transfer.py` |
 
-PowerShell note: if script execution is blocked, run `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser` once.
-
 ---
 
 ## Flow
